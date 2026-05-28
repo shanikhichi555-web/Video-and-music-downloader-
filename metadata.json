@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "A powerful video and music downloader supporting social platforms and direct links, featuring a modern media player and WhatsApp status saver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
